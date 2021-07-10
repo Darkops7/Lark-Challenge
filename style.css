@@ -1,0 +1,87 @@
+
+body{
+    justify-content: center;
+    align-items: center;
+    background-image: url(./pngwing.com.png);
+    background-size: cover;
+    
+}
+
+.cont{
+   width: 900px;
+   height: 500px;
+   justify-content: center;
+   align-items: center;
+   margin: 0 auto; 
+  
+}
+
+h1{
+    text-align: center;
+    font-weight: bold;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+
+p{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.btn{
+    text-align: center;
+}
+
+.button {
+    
+    color: blue;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+  .button {
+      text-align: center;
+    background-color:aliceblue; 
+    color: black; 
+    border: 2px solid #0909e0;
+    border-radius: 10px;
+  }
+  
+  
+  .market{
+      text-align: center;
+      box-shadow: 10px 10px 8px #b4b4b498;
+      background-color: white;
+      
+
+  }
+
+  .market td,.market th{
+    border: 1px solid #ddd;
+     padding: 5px; 
+  
+  }
+
+  .list td{
+      width: 100px;
+  }
+
+  
+  .market th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #5204aa;
+    color: white;
+    font-size: large;
+  }
+
+  

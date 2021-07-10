@@ -1,0 +1,82 @@
+[
+    {
+        "SlNo":"1",
+        "Name":"Beetroot",
+        "Quantity":"1",
+        "Unit":"Kg",
+        "Department":"Vegetable",
+        "Notes":"Fresh"
+    },
+    {
+        "SlNo":"2",
+        "Name":"Watermelon",
+        "Quantity":"1",
+        "Unit":"Kg",
+        "Department":"Fruit",
+        "Notes":"Ripe"
+    },
+    {
+        "SlNo":"3",
+        "Name":"Bread",
+        "Quantity":"1",
+        "Unit":"Packet",
+        "Department":"Vegetable",
+        "Notes":"Multigrain"
+    },
+    {
+        "SlNo":"4",
+        "Name":"Chicken",
+        "Quantity":"3",
+        "Unit":"Kg",
+        "Department":"Meat&Seafood",
+        "Notes":"Fry piece"
+    },
+    {
+        "SlNo":"5",
+        "Name":"Shredded Cheese",
+        "Quantity":"1",
+        "Unit":"Packet",
+        "Department":"Diary Products",
+        "Notes":"Amul Brand"
+    },
+    {
+        "SlNo":"6",
+        "Name":"Milk",
+        "Quantity":"3",
+        "Unit":"Packets",
+        "Department":"Diary Products",
+        "Notes":"Amul Brand"
+    },
+    {
+        "SlNo":"7",
+        "Name":"Cooking Oil",
+        "Quantity":"2",
+        "Unit":"Kg",
+        "Department":"Kitchen Essentials",
+        "Notes":"Low Cholestrol"
+    },
+    {
+        "SlNo":"8",
+        "Name":"Chilly Powder",
+        "Quantity":"1",
+        "Unit":"Kg",
+        "Department":"Kitchen Essentials",
+        "Notes":"Kashmiri"
+    },
+    {
+        "SlNo":"9",
+        "Name":"Tomato Sauce",
+        "Quantity":"1",
+        "Unit":"Nos",
+        "Department":"Canned Goods",
+        "Notes":"Low Carb"
+    },
+    {
+        "SlNo":"10",
+        "Name":"Ice Cream",
+        "Quantity":"1",
+        "Unit":"Nos",
+        "Department":"Frozen Goods",
+        "Notes":"Family Pack"
+    }
+]
